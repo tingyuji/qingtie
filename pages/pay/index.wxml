@@ -1,0 +1,9 @@
+<view class="page-wrapper">
+  <view class='imgList-li' wx:for='{{imgArr}}'>
+    <image class='paycode' src='{{item}}' data-index='{{index}}' bindtap='previewImg'></image>
+  </view>
+  <view >
+    <button type="primary" bindtap='goNext'>联系作者</button>
+  </view>
+
+</view>

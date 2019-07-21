@@ -1,0 +1,3 @@
+<view class="page-wrapper">
+    <button type="primary" open-type="getUserInfo" lang="zh_CN" bindgetuserinfo="onGotUserInfo">请同意授权用户信息</button>
+</view>

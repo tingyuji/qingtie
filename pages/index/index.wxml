@@ -1,0 +1,21 @@
+<view class='page-wrapper'>
+  <view class='image'>
+  <image class="img" src="/images/IMG_0031.jpg"  mode="aspectFill"></image>
+  </view>
+
+  <view class='name'>
+  新郎：李翔宇；新娘：刘嘉琦
+  </view>
+  
+  <view class='info'>
+  谨定于2019年8月18日中午12点举办婚礼
+  </view>
+  <view class='info'>
+  欢迎大家光临
+  </view>  
+  <view class="button-wrapper">
+  <button type="primary" open-type="getUserInfo" lang="zh_CN" bindgetuserinfo="onGotUserInfo">生成请柬</button>
+  </view> 
+</view>
+
+

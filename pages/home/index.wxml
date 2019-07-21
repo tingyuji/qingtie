@@ -1,0 +1,7 @@
+<view class="page-wrapper">
+  
+  <view class='imgList-li' wx:for='{{imgArr}}'>
+    <image class='qrcode' src='{{item}}' data-index='{{index}}' bindtap='previewImg'></image>
+  </view>
+
+</view>

@@ -1,0 +1,15 @@
+  <view>
+    <button class="share" type="primary" open-type="getUserInfo" bindgetuserinfo="getUserInfo">开始获取用户信息</button>
+  </view>
+
+  <view>
+    <button class="share" type="primary" bindtap="generateImage">生成海报</button>
+  </view>
+
+  <view>
+    <button class="share" type="primary" bindtap="saveImage">保存海报</button>
+  </view>
+
+  <view class='poste_content' id='canvas-container'>
+    <canvas canvas-id="shareImg" style="width:100%;height:{{posterHeight}}px;"></canvas>
+  </view>

@@ -1,0 +1,19 @@
+.page-wrapper{
+  background-color: #f8f8f8;
+  padding: 10rpx;
+  height: -webkit-fill-available;
+}
+.message{
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+}
+.info{
+  text-align: center;
+  color: #666;
+  padding-top: 10px;
+}
+/* 外层组件的宽度可设置成100%或具体数值 */
+.adContainer {
+  width: 100%;
+}

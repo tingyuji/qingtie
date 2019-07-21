@@ -1,0 +1,24 @@
+.page-wrapper{
+  background-color: #f8f8f8;
+  padding: 10rpx;
+  height: -webkit-fill-available;
+}
+.page-section-title{
+  font-size: 28rpx;
+  color: #999999;
+  margin-bottom: 10rpx;
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+}
+.page-txt{
+  background-color: #fff;
+  height: 550rpx;
+  width: 100%;
+  margin-bottom: 10px;
+}
+button{
+  background-color: #ff97b0;
+}
+.share{
+  margin-top: 10rpx;
+}

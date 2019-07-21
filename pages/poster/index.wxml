@@ -1,0 +1,8 @@
+<!--pages/poster/index.wxml-->
+  <view class='image-wrapper'>
+  <image class="header"  src="{{src}}"  mode="aspectFill"></image>
+  <image class="qrcode" src="/images/gh_3e9bb0bede36_258.jpg"></image>
+  </view>
+  <view class="button-wrapper">
+    <button type="primary" lang="zh_CN" bindtap='save'>保存到本地</button>
+  </view>

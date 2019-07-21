@@ -1,0 +1,10 @@
+.page-wrapper{
+    text-align: center;
+}
+.page-wrapper .paycode{
+    width: 320px;
+    height: 320px;
+}
+.page-wrapper button{
+    width: 90%;
+}

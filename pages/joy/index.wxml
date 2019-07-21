@@ -1,0 +1,14 @@
+<view class="page-wrapper">
+  <view class="page-section-title">请开始你们的表演</view>
+  <textarea class="page-txt" bindblur="bindTextAreaBlur" placeholder="" />
+
+  <view>
+    <button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}" bindtap='bless'> 送上祝福 </button>
+  </view>
+
+  <view class='share'>
+    <button type="warn" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}" bindtap="warn" open-type="share"> 转发好友 </button>
+  </view>
+
+
+</view>

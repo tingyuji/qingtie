@@ -1,0 +1,20 @@
+.image-wrapper{
+  width: 95%;
+  margin: 0 auto;
+  height: 500px;
+  background-color: #f3f0e6;
+  text-align: center;
+  padding: 5px 5px;
+  border: 1px solid #4ad864;
+}
+.header{
+  width: 258px;
+}
+.qrcode{
+  width: 258px;
+  height: 258px;
+}
+.button-wrapper{
+  text-align: center;
+  padding: 10px;
+}

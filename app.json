@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/album/index",
+    "pages/hotel/index",
+    "pages/joy/index",
+    "pages/poster/index",
+    "pages/haibao/index",
+    "pages/newhaibao/index",
+    "pages/newhaibao2/index",
+    "pages/myinfo/index",
+    "pages/userinfo/index",
+    "pages/pay/index",
+    "pages/home/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "我们结婚啦",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "selectedIconPath": "images/faxian-shape2.png",
+        "iconPath": "images/faxian-shape.png",
+        "pagePath": "pages/index/index",
+        "text": "恭候光临"
+      },
+      {
+        "selectedIconPath": "images/wode-shape2.png",
+        "iconPath": "images/wode-shape.png",
+        "pagePath": "pages/album/index",
+        "text": "甜蜜相册"
+      },
+      {
+        "selectedIconPath": "images/wodeyinyuan2.png",
+        "iconPath": "images/wodeyinyuan.png",
+        "pagePath": "pages/hotel/index",
+        "text": "酒店导航"
+      },
+      {
+        "selectedIconPath": "images/wode-shape2.png",
+        "iconPath": "images/wode-shape.png",
+        "pagePath": "pages/pay/index",
+        "text": "好友打赏"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

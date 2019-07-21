@@ -1,0 +1,25 @@
+.page-wrapper{
+  background-color: #f8f8f8;
+  padding: 10rpx;
+  height: -webkit-fill-available;
+}
+image{
+  width: 100%;
+  padding-bottom: 10px;
+}
+.img{
+  width: 100%;
+  text-align: center;
+}
+.info{
+  text-align: center;
+  color: #666;
+}
+.name{
+  padding-bottom: 10px;
+  color: #666;
+  text-align: center;
+}
+.button-wrapper{
+  padding: 10px 0;
+}
